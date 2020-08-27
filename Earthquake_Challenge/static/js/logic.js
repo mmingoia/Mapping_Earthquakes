@@ -128,7 +128,7 @@ let plateData  = "https://raw.githubusercontent.com/fraxen/tectonicplates/master
 
 // Create a style for the lines.
 let myStyle = {
-	color: "#f7cd25",
+	color: "#ffad0a",
 	weight: 3
 }
 
